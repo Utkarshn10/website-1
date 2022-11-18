@@ -25,7 +25,7 @@
           0{i + 1}
         </div>
         <div>
-          <h4 class="!mb-micro lg:!mb-micro">
+          <h4 class="!sm lg:!sm">
             <span class="text-important">{@html item.heading} </span><span
               class="text-light-grey"
             >
