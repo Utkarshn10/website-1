@@ -163,15 +163,12 @@
           >no longer supported</a
         ></b
       > <br /> The last update of Gitpod Self-hosted product was
-      <a href="https://www.gitpod.io/changelog/november-self-hosted-release"
-        >November 2022</a
-      >. Users can still request our
-      <a href="https://www.gitpod.io/community-license"
-        >free community license</a
-      >
+      <a href="/changelog/november-self-hosted-release">November 2022</a>. Users
+      can still request our
+      <a href="/community-license">free community license</a>
       however there will be no support or updates to the product. If you are interested
       in an isolated, private installation of Gitpod, take a look at
-      <a href="https://www.gitpod.io/dedicated">Gitpod Dedicated</a>.
+      <a href="/dedicated">Gitpod Dedicated</a>.
     </p>
   </div>
 </Header>

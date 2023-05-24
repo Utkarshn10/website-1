@@ -23,7 +23,7 @@ data={{
 
 > ⚠️ **Gitpod Self-hosted is [no longer supported](https://www.gitpod.io/blog/introducing-gitpod-dedicated)**
 >
-> The last update of Gitpod Self-hosted product was [November 2022](https://www.gitpod.io/changelog/november-self-hosted-release). Users can still request our [free community license](https://www.gitpod.io/community-license) however there will be no support or updates to the product. If you are interested in an isolated, private installation of Gitpod, take a look at [Gitpod Dedicated](https://www.gitpod.io/dedicated).
+> The last update of Gitpod Self-hosted product was [November 2022](/changelog/november-self-hosted-release). Users can still request our [free community license](/community-license) however there will be no support or updates to the product. If you are interested in an isolated, private installation of Gitpod, take a look at [Gitpod Dedicated](/dedicated).
 
 Gitpod can be deployed and operated on your own infrastructure. It supports different cloud providers, self-managed Kubernetes clusters, corporate firewalls, and even off-grid / air-gapped networks.
 
